@@ -1,0 +1,10 @@
+demo.freeipa.org
+ipa.demo-modernui.freeipa.org
+freeipa.org
+ipa.demo-passkey.freeipa.org
+freeipa.org:80
+www.freeipa.org
+planet.freeipa.org
+ipa.demo1.freeipa.org:80
+ipa.demo1.freeipa.org
+www.freeipa.org:80
